@@ -17,15 +17,15 @@
 
 ## Author
 
+👤 **María Eugenia Quemé**
+
+- Github: [@euqueme](https://github.com/euqueme)
+- Linkedin: [María Eguenia Quemé Peña](https://www.linkedin.com/in/maria-queme/)
+
 👤 **María Reyes**
 
 - Github: [@majovanilla](https://github.com/majovanilla)
 - Linkedin: [María José Reyes Parroquin](https://www.linkedin.com/in/majoreyesparroquin/)
-
-👤 **María Eugenia Quemé**
-
-- Github: [@euqueme](https://github.com/euqueme)
-
 
 ## 🤝 Contributing
 
