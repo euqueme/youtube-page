@@ -15,6 +15,10 @@
 
 [Live Demo Link](https://euqueme.github.io/youtube-page/)
 
+## Automated Test
+
+> there are no automated tests for this project yet
+
 ## Author
 
 👤 **María Eugenia Quemé**
@@ -31,7 +35,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/majovanilla/youtube-page/issues).
+Feel free to check the [issues page](https://github.com/euqueme/youtube-page/issues).
 
 ## Show your support
 
